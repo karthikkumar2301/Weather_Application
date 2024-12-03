@@ -60,12 +60,6 @@ This Weather Application is a real-time web app designed to provide accurate and
 
 ---
 
-## Screenshots
-
-*(Include relevant screenshots showcasing the app's design and features)*
-
----
-
 ## Future Enhancements
 
 - Add support for forecast data (e.g., hourly or weekly forecasts).  
