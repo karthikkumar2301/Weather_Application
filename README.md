@@ -74,12 +74,6 @@ This Weather Application is a real-time web app designed to provide accurate and
 
 ---
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgments
 
 - Data powered by [OpenWeatherMap](https://openweathermap.org/).  
